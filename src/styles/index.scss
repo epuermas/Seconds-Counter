@@ -2,18 +2,14 @@
 
 body{
     background-color: black;
+    max-height: 1000px;
 }
 
 .bigCounter{
     text-align: center;
     background-color: black;
     display: block;
-    position: absolute;
-	top:0;
-	bottom: 0;
-	left: 0;
-	right: 0;
-	margin-top: 400px;
+	margin-top: 20%;
 
 }
 
@@ -24,6 +20,6 @@ body{
     background-color: black;
     color: white;
     padding: 10px;
-    margin: auto;
+    // margin: auto;
     
 }
